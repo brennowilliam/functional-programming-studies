@@ -1,0 +1,13 @@
+Why FP?
+
+Imperative vs Declarative
+
+Imperative is code that focus on how to accomplish a task.
+
+We have been moving more towards declarative programming (what should it happen) as we keep adding more to programming languages.
+
+It is easier to understand declarative than imperative.
+
+The more we focus on the WHAT instead of the HOW, the easier it becomes to someone read code later.
+
+
