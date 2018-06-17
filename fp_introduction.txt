@@ -10,4 +10,12 @@ It is easier to understand declarative than imperative.
 
 The more we focus on the WHAT instead of the HOW, the easier it becomes to someone read code later.
 
+functional programming relies on provable theories that have been around for long time such as mathematical concepts.
+
+** Code you cannot understand, it is code that you can't trust **
+
+A functional programmer trust his code. He knows what's going to do. 
+
+Increases code reliability. Make others have a easier time reading our code.
+
 
